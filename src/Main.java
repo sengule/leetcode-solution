@@ -1,4 +1,7 @@
-import Stack.easy.stack_20;
+import LinkedList.medium.LL_2;
+import LinkedList.medium.LL_328;
+import LinkedList.medium.ListNode;
+import Stack.stack_20;
 
 
 public class Main {
