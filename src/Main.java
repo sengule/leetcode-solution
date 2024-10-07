@@ -1,12 +1,11 @@
 import Stack.easy.stack_20;
+import Stack.easy.stack_3174;
 
 
 public class Main {
     public static void main(String[] args) {
         // Write testcases here
-        stack_20 solution = new stack_20();
-
-        String test = "()[]{}";
-        System.out.println(solution.isValid(test));
+        stack_3174 solution = new stack_3174();
+        System.out.println(solution.clearDigits("3cb"));
     }
 }
